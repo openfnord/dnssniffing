@@ -1,3 +1,3 @@
 #/bin/bash
-dnscap -i eth0 -f -w dnssniff -W pcap 
+dnscap -i eth0 -f -w sniff/dnssniff -W pcap 
 
