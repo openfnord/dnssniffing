@@ -10,3 +10,5 @@ to
 
 generate a Body of DNS Traffic
 
+The Trancolist is used to derive the domains to be scanned.
+https://tranco-list.eu/
